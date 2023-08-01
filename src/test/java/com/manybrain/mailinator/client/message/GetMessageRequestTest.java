@@ -1,6 +1,6 @@
 package com.manybrain.mailinator.client.message;
 
-import javax.ws.rs.InternalServerErrorException;
+import jakarta.ws.rs.InternalServerErrorException;
 import java.util.UUID;
 
 import org.junit.jupiter.api.Assertions;
